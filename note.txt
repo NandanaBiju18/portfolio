@@ -1,8 +1,0 @@
-📂 How to Run Locally
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-python app.py
-
-http://127.0.0.1:5000
